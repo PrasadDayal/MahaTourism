@@ -53,18 +53,6 @@ The platform provides users with personalized recommendations, destination infor
 - Personalized Itinerary
 - Intelligent Travel Assistance
 - AI-based Decision Making
-
----
-
-## 🔒 Security Features
-
-- JWT Authentication
-- Spring Security
-- Password Encryption
-- Secure REST APIs
-- Role-Based Authorization
-- Protected Endpoints
-
 ---
 
 # 🛠 Tech Stack
@@ -104,16 +92,6 @@ The platform provides users with personalized recommendations, destination infor
 - ONNX Runtime
 - AI Recommendation Model
 - Crowd Prediction Model
-
----
-
-## Tools
-
-- IntelliJ IDEA / VS Code
-- Postman
-- Git
-- GitHub
-- Maven
 
 ---
 
@@ -219,54 +197,20 @@ http://localhost:5173
 
 ---
 
-# 🗄 Database
-
-MySQL is used for storing
-
-- Users
-- Tourist Places
-- Reviews
-- Bookings
-- Wishlist
-- Travel History
-- AI Recommendations
-
----
-
-# 🔗 REST APIs
-
-Example APIs
-
-| Method | Endpoint | Description |
-|---------|----------|-------------|
-| POST | /api/auth/register | Register User |
-| POST | /api/auth/login | Login |
-| GET | /api/places | Get All Places |
-| GET | /api/places/{id} | Place Details |
-| POST | /api/reviews | Add Review |
-| GET | /api/profile | User Profile |
-| POST | /api/ai/recommend | AI Recommendation |
-
----
-
 # 📸 Screenshots
 
 Add your project screenshots here.
+### Login Page
+![Login](Screenshots/Login Form.png)
 
-```
-screenshots/
+### Home Page
+![Home Page](Screenshots/Home Page.png)
 
-Home.png
+### Cities
+![City Page](Screenshots/Cities.png)
 
-Login.png
-
-Dashboard.png
-
-AI Recommendation.png
-
-Destination.png
-```
-
+### AI Planner
+![AI Planner Page](Screenshots/AI Planner.png)
 ---
 
 # 🚀 Future Enhancements
@@ -298,34 +242,6 @@ Destination.png
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork Repository
-
-2. Create Feature Branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit Changes
-
-```bash
-git commit -m "Added New Feature"
-```
-
-4. Push
-
-```bash
-git push origin feature-name
-```
-
-5. Open Pull Request
-
----
-
 # 📄 License
 
 This project is developed for educational and learning purposes.
@@ -334,16 +250,7 @@ This project is developed for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-**Prasad**
-
-Full Stack Java Developer
-
-- Java
-- Spring Boot
-- React
-- MySQL
-- REST APIs
-- Artificial Intelligence
+**Prasad Dayal**
 
 ---
 
