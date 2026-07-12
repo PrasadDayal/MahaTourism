@@ -199,18 +199,18 @@ http://localhost:5173
 
 # 📸 Screenshots
 
-Add your project screenshots here.
-### Login Page
-![Login](Screenshots/Login Form.png)
+Add your project screenshots here
 
 ### Home Page
-![Home Page](Screenshots/Home Page.png)
+![Home Page](Screenshots/HomePage.png)
 
 ### Cities
 ![City Page](Screenshots/Cities.png)
 
-### AI Planner
-![AI Planner Page](Screenshots/AI Planner.png)
+### Festivals
+![Festivals](Screenshots/Festivals.png)
+
+
 ---
 
 # 🚀 Future Enhancements
